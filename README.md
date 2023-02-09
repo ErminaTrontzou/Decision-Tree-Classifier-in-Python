@@ -31,20 +31,6 @@ The process ends when all ends of every question ends with a Leaf.
 | 196-202 | Again write your new array as given in lines 3-9|
 
 
-Install the dependencies and devDependencies and start the server.
-
-```sh
-cd dillinger
-npm i
-node app
-```
-
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
 # Not in a Nutshell
 #### `def n_of_strings_counter(rows)`
 ##### This function receives as input all the `rows` of the data array and counts how many times the specific label *(the last attribute of each row of my data array)* exists in the array. It **returns** the label and the  number it counted for every element in an array called count with a form `"Label : count number"`.
