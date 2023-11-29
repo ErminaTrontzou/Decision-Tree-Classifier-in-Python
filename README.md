@@ -9,7 +9,7 @@ A program that reads and compares specific numeric values of a provided 2D array
 
 
 ## Purpose
-The purpose for me making this project was to gain a bonus for my Machine Learning course in University but my professor could't understand it _(mainly because he still mostly codes in c/c++ )_ so I uploaded it here. I did allot of reasearch for this one to just not share it.
+The purpose for me making this project was to gain a bonus for my Machine Learning course in University. I did allot of research for this one to just not share it here.
 
 ## In a Nutshell
 In my particular program I provide an array with musical intruments and some numeric **attributes** about them such as their number of strings, their size and their number of octaves. The last column is a label for the row (the name of the  musical intrument).
